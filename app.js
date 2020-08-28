@@ -7,8 +7,3 @@ button.addEventListener("click", (e) => {
     count++
     visualCount.textContent = count
 })
-
-
-
-
-
